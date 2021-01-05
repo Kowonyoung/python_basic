@@ -1,0 +1,2 @@
+class SoccerPlayer(object):
+    
